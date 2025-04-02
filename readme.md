@@ -1,4 +1,4 @@
-### AgendaPython
+## AgendaPython
 
 AgendaPython is a contact management application developed with Python and Django, using SQLite as the database.
 
@@ -16,9 +16,9 @@ Photo Upload: Supports uploading photos for each contact, storing them in the me
 * manage.py: Django management script for running administrative commands.
 
 # Prerequisites
-Python 3.x
-Django
-SQLite
+* Python 3.x
+* Django
+* SQLite
 
 ## How to Run
 
